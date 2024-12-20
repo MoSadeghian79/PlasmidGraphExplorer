@@ -1,0 +1,5 @@
+# Ignore the Genome folder
+Genome/
+
+# Ignore all .sh files in the main folder
+/*.sh
